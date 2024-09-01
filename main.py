@@ -1,8 +1,6 @@
 from random import randint
 
 print("Welcome to guessing game!")
-
-
 def main():
     print("Enter a Number: ")
     number = randint(1, 10)
